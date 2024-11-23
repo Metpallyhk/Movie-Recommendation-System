@@ -1,1 +1,3 @@
 # Movie-Recommendation-System
+
+I developed a movie recommendation system designed to suggest films tailored to user preferences, enhancing the overall user experience. This project utilized Python for data manipulation and analysis with libraries such as Pandas and NumPy. Machine learning techniques, including TF-IDF vectorization and cosine similarity, were employed to identify relationships between movies and generate personalized recommendations. By leveraging the movies.csv dataset, the system analyzed textual data to provide meaningful insights. This work demonstrates the ability to integrate technical skills and data-driven methods to deliver practical, user-focused solutions in machine learning.
